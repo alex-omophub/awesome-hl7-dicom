@@ -230,6 +230,9 @@ A few canonical starting points, deliberately not a full FHIR list:
 - [LinuxForHealth hl7v2-fhir-converter](https://github.com/LinuxForHealth/hl7v2-fhir-converter) and
   [Microsoft FHIR-Converter](https://github.com/microsoft/FHIR-Converter) - v2 → FHIR conversion, if
   you'd rather not hand-map every segment.
+- [OMOPHub](https://omophub.com) - Hosted FHIR terminology service (R4–R6) and REST API over the OHDSI
+  vocabularies (SNOMED CT, LOINC, ICD-10, RxNorm), with a FHIR-coding-to-OMOP-concept resolver. Free
+  tier. (commercial)
 
 ## Learning
 
